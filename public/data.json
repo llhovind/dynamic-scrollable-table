@@ -1,0 +1,93 @@
+{ "content": [
+        {
+            "item_no": 1,
+            "description": "Fuzzy loofa waddle pumps",
+            "size": "m",
+            "color": "black",
+            "qty": 10,
+            "cost": 6.00,
+            "price": 24.00
+        },
+        {
+            "item_no": 2,
+            "description": "Dry desert growing tree",
+            "size": "s",
+            "color": "green",
+            "qty": 3,
+            "cost": 9.00,
+            "price": 15.00
+        },
+        {
+            "item_no": 3,
+            "description": "Fadoozle ornate walking handles",
+            "size": "m",
+            "color": "brass",
+            "qty": 7,
+            "cost": 1.30,
+            "price": 2.85
+        },
+        {
+            "item_no": 4,
+            "description": "Collapsible energetic notes holder",
+            "size": "l",
+            "color": "hazel",
+            "qty": 2,
+            "cost": 0.85,
+            "price": 1.50
+        },
+        {
+            "item_no": 5,
+            "description": "Swirly flambeau decorative openings",
+            "size": "s",
+            "color": "orange",
+            "qty": 10,
+            "cost": 0.50,
+            "price": 1.50
+        },
+        {
+            "item_no": 6,
+            "description": "Backward facing darkly mirrors",
+            "size": "l",
+            "color": "transparent",
+            "qty": 5,
+            "cost": 2.00,
+            "price": 6.00
+        },
+        {
+            "item_no": 7,
+            "description": "Mica framed pogo sticks",
+            "size": "m",
+            "color": "yellow",
+            "qty": 3,
+            "cost": 1.75,
+            "price": 3.25
+        },
+        {
+            "item_no": 8,
+            "description": "Licorice basted smelling salts",
+            "size": "m",
+            "color": "blue",
+            "qty": 20,
+            "cost": 2.50,
+            "price": 4.00
+        },
+        {
+            "item_no": 9,
+            "description": "Rounded triangle pointed stars",
+            "size": "l",
+            "color": "beige",
+            "qty": 8,
+            "cost": 8.00,
+            "price": 24.00
+        },
+        {
+            "item_no": 10,
+            "description": "Opulent tattooed skinny wrestling spoons",
+            "size": "s",
+            "color": "silver",
+            "qty": 20,
+            "cost": 0.57,
+            "price": 1.30
+        }
+    ]
+}

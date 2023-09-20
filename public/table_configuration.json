@@ -1,0 +1,12 @@
+{
+    "fields_config" : {
+        "item_no": { "width": "4rem", "label": "Item#"},
+        "description": { "width": "", "tooltip": true, "sortable": true},
+        "size": { "width": "3.5rem", "sortable": false},
+        "color": { "width": "6rem", "sortable": true},
+        "qty": { "width": "4rem", "format": "", "sortable": true, "class": "rightAlign pdr24"},
+        "cost": { "width": "5rem", "format": "fixedNum2", "sortable": true, "class": "rightAlign pdr10"},
+        "price": { "width": "5rem", "format": "fixedNum2", "sortable": true, "class": "rightAlign pdr10"}
+    },
+    "displayFields": ["item_no", "description", "qty", "price"]
+}
